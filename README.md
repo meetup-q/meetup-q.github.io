@@ -1,4 +1,4 @@
-# highest-wpm.github.io
+# meetup-q.github.io
 
 Website of organization.
 
